@@ -16,7 +16,7 @@ const Header = () => {
             className='w-full h-11'
             priority
             />
-            {/* <h3 className='text-lg '> Lumia </h3> */}
+            <h3 className='text-lg '> Lumia </h3>
             </Link>
 
             {/* Search and Location - Desktop only */}
